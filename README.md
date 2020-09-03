@@ -8,4 +8,4 @@ Math
 [Link to Question](https://leetcode.com/problems/factorial-trailing-zeroes/)
 
 Notes:
-![Image of Diagram](https://imgur.com/uujufn0)
+[Imgur](https://imgur.com/uujufn0)
